@@ -13,7 +13,7 @@
 |06| Objetos & OO|||
 |07| Array|||
 |08| Node|||
-|09| |ES Next ...6,7,8|||
+|09| ES Next ...6,7,8|||
 |10| Funcamentos da Web|||
 |11| HTML|||
 |12| CSS|||
