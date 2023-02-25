@@ -1,0 +1,12 @@
+function verMedia(num){
+    let med = 0
+    for (let i = 0; i < num.length; i++) {
+        med+=num[i] 
+    }
+
+    res= med/num.length
+    console.log(`Na lista temos o valor ${med} como média.`)
+}
+
+vetor = [-58, 2, 3, -114, 5, 6, -11, 15, 225, 27, 34, 44, 66, 88, 99]
+verMedia(vetor)
