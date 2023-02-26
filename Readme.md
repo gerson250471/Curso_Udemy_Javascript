@@ -13,7 +13,7 @@
 |06| Objetos & OO|13/02/2023|23/02/2023|
 |07| Array|13/02/2023|23/02/2023|
 |08| Node|13/02/2023|25/02/2023|
-|09| ES Next ...6,7,8||Parado|
+|09| ES Next ...6,7,8|26/02/2023|Em Andamento|
 |10| Funcamentos da Web||Parado|
 |11| HTML||Parado|
 |12| CSS||Parado|
