@@ -2,10 +2,10 @@
 
 <ul class="tree">
     <li>
-        Backend
+        <SPan gb-pasta>Backend</SPan> 
         <ul>
             <li>
-                app
+                <span gb-pasta>app</span>
                 <ul>
                     <li>produto.js</li>
                     <li>usuario.js</li>
@@ -13,7 +13,7 @@
                 </ul>
             </li>
             <li>
-                config
+                <span gb-pasta>config</span>
                 <ul>
                     <li>banco.js</li>
                     <li>rotas.js</li>
@@ -23,10 +23,10 @@
         </ul>
     </li>
     <li>
-        frontend
+        <span gb-pasta>frontend</span>
         <ul>
             <li>
-                public
+                <span gb-pasta>public</span>
                 <ul>
                     <li>app.css</li>
                     <li>app.js</li>
@@ -38,3 +38,12 @@
 </ul>
 
  <link rel="stylesheet" href="http://files.cod3r.com.br/curso-web/tree.css">
+ <script>
+    document.querySelectorAll('[gb-pasta]').forEach(pasta =>{
+        pasta.onclick = function(e){
+         const ul = pasta.nextElementSibling
+         const visivel = ul.style.display
+         ul.style.display= visivel === 'none' ? 'block' : 'none'
+        }
+    }) 
+ </script>
