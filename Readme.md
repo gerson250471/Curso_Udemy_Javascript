@@ -15,8 +15,8 @@
 |08| Node|13/02/2023|25/02/2023|
 |09| ES Next ...6,7,8|26/02/2023|15/03/2023|
 |10| Funcamentos da Web|15/03/2023|15/03/2023|
-|11| HTML|15/03/2023|Em Andamento|
-|12| CSS||Parado|
+|11| HTML|15/03/2023|18/03/2023|
+|12| CSS|18/03/2023|Em Andamento|
 |13| DOM||Parado|
 |14| Ajax||Parado|
 |15| Gulp||Parado|
