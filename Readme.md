@@ -25,7 +25,7 @@
 |18| Bootstrap||Parado|
 |19| React||Parado|
 |20| Vue||Parado|
-|21| Banco de Dados Relacionais||Parado|
+|21| Banco de Dados Relacionais|25/03/2023|25/03/2023|
 |22| Banco de Dados Não Relacionais||Parado|
 |23| Express||Parado|
 |24| Integrando Banco de Dados com o Backend||Parado|
