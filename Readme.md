@@ -26,8 +26,8 @@
 |19| React||Parado|
 |20| Vue||Parado|
 |21| Banco de Dados Relacionais|25/03/2023|25/03/2023|
-|22| Banco de Dados Não Relacionais|26/03/2023|Em Andamento|
-|23| Express||Parado|
+|22| Banco de Dados Não Relacionais|26/03/2023|30/03/2023|
+|23| Express|30/03/2023|Em Andamento|
 |24| Integrando Banco de Dados com o Backend||Parado|
 |25| Projetos||Parado|
 |26| Outros Tópicos||Parado|
