@@ -27,8 +27,8 @@
 |20| Vue||Parado|
 |21| Banco de Dados Relacionais|25/03/2023|25/03/2023|
 |22| Banco de Dados Não Relacionais|26/03/2023|30/03/2023|
-|23| Express|30/03/2023|Em Andamento|
-|24| Integrando Banco de Dados com o Backend||Parado|
+|23| Express|30/03/2023|01/04/2023|
+|24| Integrando Banco de Dados com o Backend|01/04/2023|Em Andamento|
 |25| Projetos||Parado|
 |26| Outros Tópicos||Parado|
 |27| Conclusão||Parado|
